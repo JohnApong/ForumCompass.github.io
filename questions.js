@@ -17,7 +17,7 @@ questions =
             "The Forums should maintain and/or expand its cooperation with other nations.",
             "National events such as Ping Yusuf Tuesday are important to maintain activity.",
             "The government should fund businesses that are commercially viable to promote economic activity.",
-            "Therr should be an activity minimum for elected officials."
+            "There should be an activity minimum for elected officials."
         ]],[//Authority-Liberty`
         [//Authority
             "Unelected bodies are a necessary part of any mock government.",
@@ -45,7 +45,7 @@ questions =
             "Caiti should be as diplomatically active as possible.",
             "Other nations are superior to Caiti in many ways, and we should take notes from them.",
             "Political polarization must be eliminated at all costs.",
-            "When thinking of leaders of the Forums, I think of the current President before Powerfuls like Soda.",
+            "When thinking of leaders of the Forums, I think of the current President before thinking of Powerfuls like Soda.",
             "I do not identify with any Forumer ethnicity."
         ],
         [//Conservative
