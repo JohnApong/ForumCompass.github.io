@@ -1,12 +1,14 @@
 questions = 
     [[//Left-Right`
         [//Right
-            "Activity is not someting that can be controlled by the government.",
+            "Activity is not something that can be controlled by the government.",
             "The military is a waste of time and resources, as it has no real effect on the server.",
             "The lottery is pointless and does nothing to increase activity",
             "All businesses are good for activity, no matter the nature of the business.",
             "Rules and laws generally impede activity rather than increasing it.",
-            "Economic freedom is the best way to promote economic activity."
+            "Economic freedom is the best way to promote economic activity.",
+            "Dips in activity are natural, waiting them out is often the best option.",
+            "A truly dedicated users does not need government interference to give them a reason to use the server."
         ],
         [//Left
             "The military should host more events.",
@@ -14,8 +16,7 @@ questions =
             "Military conscription should be introduced.",
             "The Forums should maintain and/or expand its cooperation with other nations.",
             "National events such as Ping Yusuf Tuesday are important to maintain activity.",
-            "The fight against romanism should be emphasized more.",
-            "The government should fund businesses that are commercially viable to promote economic activity."
+            "The government should fund businesses that are commercially viable to promote economic activity.",
             "Their should be an activity minimum for elected officials."
         ]],[//Authority-Liberty`
         [//Authority
@@ -25,7 +26,8 @@ questions =
             "News networks should not be used as personal soapboxes.",
             "Businesses should only exist if they provide legitimate economic or entertainment value.",
             "Limits on gambling are necessary to prevent economic downturn.",
-            "The Powerful Council should have a say in proposals that modify the constitution."
+            "The Powerful Council should have a say in proposals that modify the constitution.",
+            "Military equipment should not be available for sale to civillians."
         ],
         [//Liberty
             "The Powerful Council should be abolished.",
