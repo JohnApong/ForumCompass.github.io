@@ -17,7 +17,7 @@ questions =
             "The Forums should maintain and/or expand its cooperation with other nations.",
             "National events such as Ping Yusuf Tuesday are important to maintain activity.",
             "The government should fund businesses that are commercially viable to promote economic activity.",
-            "Their should be an activity minimum for elected officials."
+            "Therr should be an activity minimum for elected officials."
         ]],[//Authority-Liberty`
         [//Authority
             "Unelected bodies are a necessary part of any mock government.",
@@ -43,14 +43,14 @@ questions =
             "I don't care about the history of the Forums.",
             "Policies are the primary thing I consider when voting.",
             "Caiti should be as diplomatically active as possible.",
-            "Other nations are superior to Caiti in many ways, and should take notes from them.",
+            "Other nations are superior to Caiti in many ways, and we should take notes from them.",
             "Political polarization must be eliminated at all costs.",
-            "When thinking of leaders of the Foruns, I think of the President before the Powerfuls.",
+            "When thinking of leaders of the Forums, I think of the current President before Powerfuls like Soda.",
             "I do not identify with any Forumer ethnicity."
         ],
         [//Conservative
             "Romanists should not be allowed in government.",
-            "The distinction of Honoured Frumer is important to honouring our nation's history.",
+            "The distinction of Honoured Forumer is important to honouring our nation's history.",
             "I consider myself Intarian/Karanoian/Southvisean moreso than I consider myself a Forumer.",
             "I tend to vote based on who I like the most.",
             "Caiti is superior to most neighboring mock governments in most regards.",
